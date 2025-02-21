@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html class="homePage">
+<head>
+<!-- This is a comment! Text here will be ignored by the browser. -->
+<meta charset="UTF-8">
+<title>ECS Projects</title>
+<link href="../myCSS.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="container">
+  <div class="header">
+  <h1>ECS Projects</h1>
+  </div>
+  <div class="nav">
+    <h3> <a href="../index.html">Home</a> |  <a href="index.html">ECS</a>  |  <a href="../skateboarding/index.html">Skateboarding</a> </h3>
+  </div>
+  <div class="content">
+<h3>Typing Results</h3>
+<img src="../images/TypingTest.png" alt="Typing Test" width="960"
+<h3>Coding Projects</h3>
+ <h3>Certifications</h3>
+ 
+  </div>
+  <div class="footer">
+    <h4><a href="aboutme.html">About Me</a>|<a href="mailto:9721432@graniteschools.org">Contact</a> | Copyright 2021</h4>
+  </div>
+</div>
+</body>
+</html>
